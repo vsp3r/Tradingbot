@@ -1,2 +1,6 @@
+websocket-client
+yfinance
 ccxt
+pandas_ta
+requests
 pandas
